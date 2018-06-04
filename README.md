@@ -5,4 +5,4 @@
 <strong>Technologies:</strong> Vanilla JavaScript, HTML, and CSS.
 
 
-<img src="/carousel.gif"
+<img src="carousel.gif">
